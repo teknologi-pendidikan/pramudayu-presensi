@@ -1,14 +1,908 @@
 {
-    "251220050599": {
-        "nomor_induk": "251220050599",
-        "nama_lengkap": "THOMAS AKBAR MUHAIMIN PUTRA",
-        "golongan": "PENGGALANG",
-        "jenis_kelamin": "PA"
+    "011120060523": {
+      "nomor_induk": "011120060523",
+      "nama_lengkap": "MUHAMMAD SYANOVAL ALFARINZI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "011120060612": {
+      "nomor_induk": "011120060612",
+      "nama_lengkap": "SYANOVAL ALFARINZI PUTRA PAMUNGKAS",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "011120060618": {
+      "nomor_induk": "011120060618",
+      "nama_lengkap": "MUHAMMAD SYANOVAL ALFARINZI PUTRA PAMUNGKAS",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "020820090790": {
+      "nomor_induk": "020820090790",
+      "nama_lengkap": "SANDRA FAREL A",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "030120050328": {
+      "nomor_induk": "030120050328",
+      "nama_lengkap": "MUHAMMAD TRI WARDANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "030420050320": {
+      "nomor_induk": "030420050320",
+      "nama_lengkap": "GUNTUR BAGUS P",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "030420060521": {
+      "nomor_induk": "030420060521",
+      "nama_lengkap": "GUNTUR BAGUS PERMADI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "030620100859": {
+      "nomor_induk": "030620100859",
+      "nama_lengkap": "MUHAMMAD ERWIN Y",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "050320080675": {
+      "nomor_induk": "050320080675",
+      "nama_lengkap": "ABINATA RIZKO ANO MARTA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "060220080708": {
+      "nomor_induk": "060220080708",
+      "nama_lengkap": "M NAUFAL NUR AZHAR",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "060220100760": {
+      "nomor_induk": "060220100760",
+      "nama_lengkap": "VEBYAN ALBERT I",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "060620090933": {
+      "nomor_induk": "060620090933",
+      "nama_lengkap": "AHMAD REZA MAULANA ILHAM",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "071020060666": {
+      "nomor_induk": "071020060666",
+      "nama_lengkap": "RIANG RAMADHANA NANCO FANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "080720050352": {
+      "nomor_induk": "080720050352",
+      "nama_lengkap": "HERI YULIANTO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "090820090793": {
+      "nomor_induk": "090820090793",
+      "nama_lengkap": "ACHMAD WAHYU RAMADHANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "100620060472": {
+      "nomor_induk": 100620060472,
+      "nama_lengkap": "RAMADANI TEJO K",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "100620060633": {
+      "nomor_induk": 100620060633,
+      "nama_lengkap": "RAMANDHANI TEJO KUSUMO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "100620060749": {
+      "nomor_induk": 100620060749,
+      "nama_lengkap": "RAMANDANI TEJO KUSUMO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "101020050510": {
+      "nomor_induk": 101020050510,
+      "nama_lengkap": "RIZKI MAULANA MALIK IBRAHIM",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "101120060624": {
+      "nomor_induk": 101120060624,
+      "nama_lengkap": "CELLO AHMAD FARDANEZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "110320060530": {
+      "nomor_induk": 110320060530,
+      "nama_lengkap": "MUHAMMMAD FAREZA IQBAL",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "110320060590": {
+      "nomor_induk": 110320060590,
+      "nama_lengkap": "MUHAMMAD FAREZA IQBAL",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "110820080887": {
+      "nomor_induk": 110820080887,
+      "nama_lengkap": "PANJI SATRIO AGUSTIAN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "120120090639": {
+      "nomor_induk": 120120090639,
+      "nama_lengkap": "MOCH ABI AFRIZAL H",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "120120090817": {
+      "nomor_induk": 120120090817,
+      "nama_lengkap": "MOCHAMMAD ABI AFRIZAL HARIANTO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "130220080729": {
+      "nomor_induk": 130220080729,
+      "nama_lengkap": "PRABU BERKAH ILLAHI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "130520070661": {
+      "nomor_induk": 130520070661,
+      "nama_lengkap": "YUSUF AL FATHAN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "130619700007": {
+      "nomor_induk": 130619700007,
+      "nama_lengkap": "INDRA WURYANTO",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PA"
+    },
+    "130820050410": {
+      "nomor_induk": 130820050410,
+      "nama_lengkap": "TEGUH FIRZA ANANDA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "130820050519": {
+      "nomor_induk": 130820050519,
+      "nama_lengkap": "MUHAMMAD TEGUH FIRZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "130820050574": {
+      "nomor_induk": 130820050574,
+      "nama_lengkap": "MUHAMMAD TEGUH FIRZA ANANDA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "150620080700": {
+      "nomor_induk": 150620080700,
+      "nama_lengkap": "BHASKARA DAVA KISTYNAL",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "160320070684": {
+      "nomor_induk": 160320070684,
+      "nama_lengkap": "MOCH AMRIN YUSRON",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "160520020349": {
+      "nomor_induk": 160520020349,
+      "nama_lengkap": "WAHYU DWI PAMUNGKAS",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PA"
+    },
+    "160820060681": {
+      "nomor_induk": 160820060681,
+      "nama_lengkap": "ACHMAD ARDHO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "170320100771": {
+      "nomor_induk": 170320100771,
+      "nama_lengkap": "ACHMAD WAHYU MUSA BARRASA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "170620040276": {
+      "nomor_induk": 170620040276,
+      "nama_lengkap": "MOCHAMAAD YOSA MAULANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "171220080789": {
+      "nomor_induk": 171220080789,
+      "nama_lengkap": "MOCHAMMAD IBAD HABIBULLAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "180320100839": {
+      "nomor_induk": 180320100839,
+      "nama_lengkap": "MUHAMMAD ULUL ALBAB ISOMMUDIN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "180820080841": {
+      "nomor_induk": 180820080841,
+      "nama_lengkap": "MUCH RIZKI AKBAR AGUSTIAN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "180820080874": {
+      "nomor_induk": 180820080874,
+      "nama_lengkap": "MOCHAMMAD RISKY AKBAR AGUSTIAN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "191220080751": {
+      "nomor_induk": 191220080751,
+      "nama_lengkap": "ARGRA HONEY AL GHIFARI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "191220090753": {
+      "nomor_induk": 191220090753,
+      "nama_lengkap": "SURYA ARGO PENI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "200620060615": {
+      "nomor_induk": 200620060615,
+      "nama_lengkap": "MUHAMMAD ADDINULANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "200620060616": {
+      "nomor_induk": 200620060616,
+      "nama_lengkap": "MUHAMMAD ADDINU LANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "200719780005": {
+      "nomor_induk": 200719780005,
+      "nama_lengkap": "MOCH CHASBULLAH",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PA"
+    },
+    "230720060648": {
+      "nomor_induk": 230720060648,
+      "nama_lengkap": "ERIC ARDIANTO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "240620050360": {
+      "nomor_induk": 240620050360,
+      "nama_lengkap": "MUHAMMAD DIMAS ADITYS",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
     },
     "240720050445": {
-        "nomor_induk": "240720050445",
-        "nama_lengkap": "MUHAMMAD DIMAS ADITYA",
-        "golongan": "PENGGALANG",
-        "jenis_kelamin": "PA"
+      "nomor_induk": 240720050445,
+      "nama_lengkap": "MUHAMMAD DIMAS ADITYA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "251220050599": {
+      "nomor_induk": 251220050599,
+      "nama_lengkap": "THOMAS AKBAR MUHAIMIN PUTRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "280220100899": {
+      "nomor_induk": 280220100899,
+      "nama_lengkap": "MUHAMMAD ARIEF HIDAYATULLAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "280420010185": {
+      "nomor_induk": 280420010185,
+      "nama_lengkap": "MOCHAMMAD YUSUF APRIANTO",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PA"
+    },
+    "290820070552": {
+      "nomor_induk": 290820070552,
+      "nama_lengkap": "RIO PERMATA PUTRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "301020060584": {
+      "nomor_induk": 301020060584,
+      "nama_lengkap": "ACHMAD CANDRA YOHANAS",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "310820060506": {
+      "nomor_induk": 310820060506,
+      "nama_lengkap": "ANDIKA AGUS SETYIAWAN PUTRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "310820080685": {
+      "nomor_induk": 310820080685,
+      "nama_lengkap": "M. RISKY MAULANA SAPUTRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "310820080709": {
+      "nomor_induk": 310820080709,
+      "nama_lengkap": "MUHAMMAD RISKY MAULANA SAPUTRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "311220050331": {
+      "nomor_induk": 311220050331,
+      "nama_lengkap": "HALFIN DIPRASETO ISMAIL",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PA"
+    },
+    "010120101431": {
+      "nomor_induk": "010120101431",
+      "nama_lengkap": "NURUL ZAHROTUS SITA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "010220040250": {
+      "nomor_induk": "010220040250",
+      "nama_lengkap": "FEBRIANA EKA ADKHANIYAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "020520070738": {
+      "nomor_induk": "020520070738",
+      "nama_lengkap": "NISSA NUR AFIYAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "020520070853": {
+      "nomor_induk": "020520070853",
+      "nama_lengkap": "NATASYA TRI HAPSARI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "021020060579": {
+      "nomor_induk": "021020060579",
+      "nama_lengkap": "KRISTIYA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "021020090722": {
+      "nomor_induk": "021020090722",
+      "nama_lengkap": "DITA ANJARWATI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "030120060514": {
+      "nomor_induk": "030120060514",
+      "nama_lengkap": "ERLY TANIA FIRDA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "030420060580": {
+      "nomor_induk": "030420060580",
+      "nama_lengkap": "HANIK MASRUROH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "030520090771": {
+      "nomor_induk": "030520090771",
+      "nama_lengkap": "RARA KIRANA VERONIKA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "030620070656": {
+      "nomor_induk": "030620070656",
+      "nama_lengkap": "NATASYA AZ ZAHRATUN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "040120050293": {
+      "nomor_induk": "040120050293",
+      "nama_lengkap": "JESICCA FAHMA FARADILA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "040519650009": {
+      "nomor_induk": "040519650009",
+      "nama_lengkap": "SITI FATIMAH",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PI"
+    },
+    "050320080798": {
+      "nomor_induk": "050320080798",
+      "nama_lengkap": "DIVA NUR NABILA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "050920070722": {
+      "nomor_induk": "050920070722",
+      "nama_lengkap": "NADINE DWI SEPTIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "060520050491": {
+      "nomor_induk": "060520050491",
+      "nama_lengkap": "ZAHRA HALIZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "060620070744": {
+      "nomor_induk": "060620070744",
+      "nama_lengkap": "RIRIZ NUR FADILAH ARISTAYANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "060720060561": {
+      "nomor_induk": "060720060561",
+      "nama_lengkap": "ANISYA DWI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "060720060648": {
+      "nomor_induk": "060720060648",
+      "nama_lengkap": "ANISYA DWI ISTI'AANAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "060920060692": {
+      "nomor_induk": "060920060692",
+      "nama_lengkap": "ERINDA MAKRIFATUL RAHMA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "070220080742": {
+      "nomor_induk": "070220080742",
+      "nama_lengkap": "GENDHIS NOVALISA PERMATA SAPUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "070620070709": {
+      "nomor_induk": "070620070709",
+      "nama_lengkap": "RAHMA FITRIA SARI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "070820070749": {
+      "nomor_induk": "070820070749",
+      "nama_lengkap": "RIDHA HANINDYA PUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "070920070708": {
+      "nomor_induk": "070920070708",
+      "nama_lengkap": "DINA PUSPITA SARI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "080720081021": {
+      "nomor_induk": "080720081021",
+      "nama_lengkap": "SITI NAAFISATUL MAHMUDAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "090220100690": {
+      "nomor_induk": "090220100690",
+      "nama_lengkap": "NABILAH ATHALIA DZAKIRAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "090220100703": {
+      "nomor_induk": "090220100703",
+      "nama_lengkap": "NABILAH ADHALIA DZAKIRAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "090920070752": {
+      "nomor_induk": "090920070752",
+      "nama_lengkap": "ADHINDA RACHMA SEPTIYANTI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "100920050562": {
+      "nomor_induk": "100920050562",
+      "nama_lengkap": "ADINDA AMALIA PUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "101120050552": {
+      "nomor_induk": "101120050552",
+      "nama_lengkap": "NUR FITRIA AULIA PUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "111120060697": {
+      "nomor_induk": "111120060697",
+      "nama_lengkap": "SHALWA NUR SALSABILLA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "111220060600": {
+      "nomor_induk": "111220060600",
+      "nama_lengkap": "NUR ADINDA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "130120080704": {
+      "nomor_induk": "130120080704",
+      "nama_lengkap": "WINDA AULIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "130220090761": {
+      "nomor_induk": "130220090761",
+      "nama_lengkap": "FADILATUN NURUL FAIZAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "130320060502": {
+      "nomor_induk": "130320060502",
+      "nama_lengkap": "FAIQOTUL - HIMAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "130320060579": {
+      "nomor_induk": "130320060579",
+      "nama_lengkap": "FAIQOTUL HIMAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "130820090821": {
+      "nomor_induk": "130820090821",
+      "nama_lengkap": "NATASYA PUTRI R",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "140520040291": {
+      "nomor_induk": "140520040291",
+      "nama_lengkap": "HILDA ARRYFIAH .",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "140520100753": {
+      "nomor_induk": "140520100753",
+      "nama_lengkap": "TIARA FATAN ISLAMIAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "140720040267": {
+      "nomor_induk": "140720040267",
+      "nama_lengkap": "SITI NURIKA AMALIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "141020060615": {
+      "nomor_induk": "141020060615",
+      "nama_lengkap": "OCTA LAILATUL MAGHFIROH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "150520070937": {
+      "nomor_induk": "150520070937",
+      "nama_lengkap": "RANITA DWI PURWASIH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "160320100808": {
+      "nomor_induk": "160320100808",
+      "nama_lengkap": "SILVYA RATNA ANJANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "160520080852": {
+      "nomor_induk": "160520080852",
+      "nama_lengkap": "NADIVA DIAN LESTARI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "160620030297": {
+      "nomor_induk": "160620030297",
+      "nama_lengkap": "LAILI NUR MUFIDAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "160820060830": {
+      "nomor_induk": "160820060830",
+      "nama_lengkap": "REGYA AYU AGERTYA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "161020080791": {
+      "nomor_induk": "161020080791",
+      "nama_lengkap": "SINTIA LUJENG TRI ANDAYANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "170220070624": {
+      "nomor_induk": "170220070624",
+      "nama_lengkap": "KHARISMA FEBRIYANTI RACHMATILLAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "170520080922": {
+      "nomor_induk": "170520080922",
+      "nama_lengkap": "DINDA MEY ADELIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "170620070534": {
+      "nomor_induk": "170620070534",
+      "nama_lengkap": "ACHSANU A'MALA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "170920050577": {
+      "nomor_induk": "170920050577",
+      "nama_lengkap": "VANESSA NAFILIA ASHANTI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "180220050262": {
+      "nomor_induk": "180220050262",
+      "nama_lengkap": "ANDINY TRI FEBRIANTI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "180420070697": {
+      "nomor_induk": "180420070697",
+      "nama_lengkap": "AURINA NUR LAILI FADILAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "180820080840": {
+      "nomor_induk": "180820080840",
+      "nama_lengkap": "ISMIATUL MUFAIZZAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "190120070516": {
+      "nomor_induk": "190120070516",
+      "nama_lengkap": "NABILA SALSABILA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "190420050448": {
+      "nomor_induk": "190420050448",
+      "nama_lengkap": "APRILIZA IRMANDA RACHMAWATI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "190620040283": {
+      "nomor_induk": "190620040283",
+      "nama_lengkap": "AYU STYAWATI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "210220070540": {
+      "nomor_induk": "210220070540",
+      "nama_lengkap": "VIRGINIA INNOVA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "210420070750": {
+      "nomor_induk": "210420070750",
+      "nama_lengkap": "KEYSHA AYU ELYSIA IWAYUDI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "220420070652": {
+      "nomor_induk": "220420070652",
+      "nama_lengkap": "AZWA AULIA PUTRI ANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "221120040252": {
+      "nomor_induk": "221120040252",
+      "nama_lengkap": "LULUK KHANAFIYAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "221220050510": {
+      "nomor_induk": "221220050510",
+      "nama_lengkap": "INTAN ANGIETA PUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230120100680": {
+      "nomor_induk": "230120100680",
+      "nama_lengkap": "VIRA GITA A",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230220050251": {
+      "nomor_induk": "230220050251",
+      "nama_lengkap": "KIKI NUR FEBRIANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230220080706": {
+      "nomor_induk": "230220080706",
+      "nama_lengkap": "ZAHROTUS SITTA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230320060609": {
+      "nomor_induk": "230320060609",
+      "nama_lengkap": "INDI AMALIA SYAFITRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230620070600": {
+      "nomor_induk": "230620070600",
+      "nama_lengkap": "ADELIA AZZAHRA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230620090877": {
+      "nomor_induk": "230620090877",
+      "nama_lengkap": "SITI NUR AZIZAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230720060647": {
+      "nomor_induk": "230720060647",
+      "nama_lengkap": "MERLINDA FITASYA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230720070787": {
+      "nomor_induk": "230720070787",
+      "nama_lengkap": "LISA FAJAROTUN NIKMAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "230820060633": {
+      "nomor_induk": "230820060633",
+      "nama_lengkap": "IKHSANUL ALIMI AGUSTINA PUTRI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "240619770005": {
+      "nomor_induk": "240619770005",
+      "nama_lengkap": "SUSI MULANDARI",
+      "golongan": "PEMBINA",
+      "jenis_kelamin": "PI"
+    },
+    "240920100752": {
+      "nomor_induk": "240920100752",
+      "nama_lengkap": "AFRISKA NUR FITRIANA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "241020060580": {
+      "nomor_induk": "241020060580",
+      "nama_lengkap": "SALWA FITTYAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "250320060612": {
+      "nomor_induk": "250320060612",
+      "nama_lengkap": "UMROH MAHMUDAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "250620040253": {
+      "nomor_induk": "250620040253",
+      "nama_lengkap": "NUR IFFATUL IZZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "251120050479": {
+      "nomor_induk": "251120050479",
+      "nama_lengkap": "RIFDA ZANETA AULIA ARSYA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "251120050483": {
+      "nomor_induk": "251120050483",
+      "nama_lengkap": "RIFDA ZANETA AULIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "260220060466": {
+      "nomor_induk": "260220060466",
+      "nama_lengkap": "FEBIANTI NUR RAHAYU",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "260520060689": {
+      "nomor_induk": "260520060689",
+      "nama_lengkap": "ALIFATUS SHOLIKHAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "260720090755": {
+      "nomor_induk": "260720090755",
+      "nama_lengkap": "FAIDAH AISYAH HARTANTO",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "270820050477": {
+      "nomor_induk": "270820050477",
+      "nama_lengkap": "SALSABILA CINTA KUSUMA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "270820050570": {
+      "nomor_induk": "270820050570",
+      "nama_lengkap": "SALSABILA CINTA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "280420050508": {
+      "nomor_induk": "280420050508",
+      "nama_lengkap": "MUTIARA TIYAN",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "280420050564": {
+      "nomor_induk": "280420050564",
+      "nama_lengkap": "MUTIARA TIYAN APRILZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "280420070691": {
+      "nomor_induk": "280420070691",
+      "nama_lengkap": "REVA ULYA SALSABILA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "280920070724": {
+      "nomor_induk": "280920070724",
+      "nama_lengkap": "NUR HIKMA YANTI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "290120090806": {
+      "nomor_induk": "290120090806",
+      "nama_lengkap": "NAYLA ZAHRA NAFIZA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "290420100821": {
+      "nomor_induk": "290420100821",
+      "nama_lengkap": "AVRILIA IRDA YUKESYIA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "290520070666": {
+      "nomor_induk": "290520070666",
+      "nama_lengkap": "REFINASYA DAMAYANTI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "290620080786": {
+      "nomor_induk": "290620080786",
+      "nama_lengkap": "JUNIAR DANAINA RAHMA",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "290920060555": {
+      "nomor_induk": "290920060555",
+      "nama_lengkap": "FARRA NUR RAMADHANI",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "310720080831": {
+      "nomor_induk": "310720080831",
+      "nama_lengkap": "LAILA LAURA KH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
+    },
+    "310720080866": {
+      "nomor_induk": "310720080866",
+      "nama_lengkap": "LAILA AURA KHASANAH",
+      "golongan": "PENGGALANG",
+      "jenis_kelamin": "PI"
     }
-}
+  }
