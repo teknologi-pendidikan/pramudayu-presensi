@@ -20,10 +20,12 @@ class App extends React.Component {
         <section className="App-section">
           <div className="App-section-title">QRCODE-SCANTEST</div>
           <Html5QrcodePlugin 
-            fps={1}
+            fps={0.5}
             qrbox={512}
             disableFlip={false}
             qrCodeSuccessCallback={this.onNewScanResult}/>
+            <br></br>
+            <button onClick={() => window.print()}>Print</button>
           <ResultContainerPlugin results={this.state.decodedResults} />
         </section>
       </div>
@@ -44,6 +46,25 @@ class App extends React.Component {
       console.log("Data ditemukan")
       console.log(dataanggota[decodedText])
     }
+
+    let formdata = new FormData();
+    formdata.append("nomor_induk", dataanggota[decodedText].nomor_induk);
+    formdata.append("nama_lengkap", dataanggota[decodedText].nama_lengkap);
+    formdata.append("golongan", dataanggota[decodedText].golongan);
+    formdata.append("jenis_kelamin", dataanggota[decodedText].jenis_kelamin);
+    formdata.append("timestamp", Date.now());
+    formdata.append("keterangan", "HADIR");
+
+    var requestOptions = {
+      method: 'POST',
+      body: formdata,
+      redirect: 'follow'
+    };
+
+    fetch("https://sheetdb.io/api/v1/8h4tj7ezfyl5d", requestOptions)
+    .then(response => response.text())
+    .then(result => console.log(result))
+    .catch(error => console.log('error', error));
 
     this.setState((state, props) => {
       state.decodedResults.push(dataanggota[decodedText]);
