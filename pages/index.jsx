@@ -21,12 +21,12 @@ class App extends React.Component {
           <div className="App-section-title">QRCODE-SCANTEST</div>
           <Html5QrcodePlugin 
             fps={0.5}
-            qrbox={512}
+            qrbox={256}
             disableFlip={false}
             qrCodeSuccessCallback={this.onNewScanResult}/>
           <ResultContainerPlugin results={this.state.decodedResults} />
           <br></br>
-            <button class="button-print" onClick={() => window.print()}>Print</button>
+            <button className='button-print' onClick={() => window.print()}>Print</button>
         </section>
       </div>
     );

@@ -23,6 +23,7 @@
   justify-content: center;
   color: white;
   font-family: 'Poppins';
+  padding: 20px 0;
 }
 
 .App-section-title {
@@ -137,6 +138,12 @@ a {
   }
 }
 
+.image-user img {
+  border: 1px solid;
+  width: 60px;
+  height: 80px;
+}
+
 @media (max-width: 390px) {
   .App {
     text-align: center;
@@ -189,6 +196,11 @@ a {
   table {
     overflow-y: auto;
     overflow-x: hidden;
+  }
+  .image-user img {
+    border: 1px solid;
+    width: 30px;
+    height: 40px;
   }
   
 }

@@ -37,6 +37,8 @@ class ResultContainerTable extends React.Component {
                                 <td>{i}</td>
                                 <td>{result.nomor_induk}</td>
                                 <td>{result.nama_lengkap}</td>
+                                <td>{Date.now()}</td>
+                                <td className='image-user'><img src="dummy-user.png" alt="" /></td>
                             </tr>);
                         })
                     }
