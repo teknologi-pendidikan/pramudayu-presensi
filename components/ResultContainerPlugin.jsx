@@ -25,6 +25,8 @@ class ResultContainerTable extends React.Component {
                         <td>#</td>
                         <td>Decoded Text</td>
                         <td>Format</td>
+                        <td>Timestamp</td>
+                        <td>Foto</td>
                     </tr>
                 </thead>
                 <tbody>
