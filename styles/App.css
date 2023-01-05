@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -21,6 +22,8 @@
   align-items: center;
   justify-content: center;
   color: white;
+  font-family: 'Poppins';
+  padding: 20px 0;
 }
 
 .App-section-title {
@@ -73,9 +76,9 @@
 }
 
 table {
-  width: 800px;
+  width: 100%;
   border-collapse: collapse;
-  overflow: hidden;
+  overflow: scroll;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 th,
@@ -110,3 +113,95 @@ tbody td:hover:before {
 a {
   color: white
 }
+
+.button-print {
+  padding: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: poppins;
+  text-transform: uppercase;
+  background: #34479D;
+  border: 0;
+  color: #fff;
+  letter-spacing: 1px;
+  min-width: 600px;
+}
+
+@media (max-width: 639px) {
+  #html5qr-code-full-region__scan_region video {
+    width: 100%!important;
+  }
+  #html5qr-code-full-region__dashboard_section_csr button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+}
+
+.image-user img {
+  border: 1px solid;
+  width: 60px;
+  height: 80px;
+}
+
+@media (max-width: 390px) {
+  .App {
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .Result-container {
+    min-width: unset;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+  }
+  .App-section {
+    background-color: #282c34;
+    min-height: unset;
+    display: -moz-box;
+    display: flex;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    flex-direction: column;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: unset;
+    color: white;
+    padding: 20px 0;
+    overflow-x: hidden;
+    height: 600px;
+  }
+  .button-print {
+    padding: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+    text-transform: uppercase;
+    background: #34479D;
+    border: 0;
+    color: #fff;
+    letter-spacing: 1px;
+    min-width: unset;
+    width: 100%;
+  }
+  .Result-section {
+    overflow-y: hidden;
+    overflow-x: scroll;
+  }
+  table {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .image-user img {
+    border: 1px solid;
+    width: 30px;
+    height: 40px;
+  }
+  
+}
+

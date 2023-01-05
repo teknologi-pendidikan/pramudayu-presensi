@@ -21,12 +21,12 @@ class App extends React.Component {
           <div className="App-section-title">QRCODE-SCANTEST</div>
           <Html5QrcodePlugin 
             fps={0.5}
-            qrbox={512}
+            qrbox={256}
             disableFlip={false}
             qrCodeSuccessCallback={this.onNewScanResult}/>
-            <br></br>
-            <button onClick={() => window.print()}>Print</button>
           <ResultContainerPlugin results={this.state.decodedResults} />
+          <br></br>
+            <button className='button-print' onClick={() => window.print()}>Print</button>
         </section>
       </div>
     );
@@ -61,10 +61,10 @@ class App extends React.Component {
       redirect: 'follow'
     };
 
-    fetch("https://sheetdb.io/api/v1/8h4tj7ezfyl5d", requestOptions)
-    .then(response => response.text())
-    .then(result => console.log(result))
-    .catch(error => console.log('error', error));
+    // fetch("https://sheetdb.io/api/v1/8h4tj7ezfyl5d", requestOptions)
+    // .then(response => response.text())
+    // .then(result => console.log(result))
+    // .catch(error => console.log('error', error));
 
     this.setState((state, props) => {
       state.decodedResults.push(dataanggota[decodedText]);
