@@ -1,3 +1,29 @@
+
+@media print {
+
+  .App-section {
+    justify-content: unset;
+  }
+
+  img {
+    display: none;
+  }
+  .print {
+    display: block;
+  }
+  .noprint {
+    display: none;
+  }
+  h1,h2,h3,p,table {
+    color: #000;
+  }
+  h1,h2,h3 {
+    text-align: center;
+    font-family: IBM Plex Sans;
+    font-size: 40px
+  }
+}
+
 .App {
   text-align: center;
   overflow: hidden;
